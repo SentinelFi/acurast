@@ -1,0 +1,8 @@
+node_modules
+dist
+
+.acurast
+acurast.log
+
+.env
+.env.local
